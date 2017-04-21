@@ -18,5 +18,6 @@
         "psr-0": {
             "ImageCrud": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
